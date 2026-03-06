@@ -1,16 +1,29 @@
 # Littera-bitmap-font-generator
+
+### 2026-03-06 增加App文件
+
 Littera — bitmap font generator 本地版本
 
 ```bash
-├── Flash Player.app //Adobe 官方Flash 独立版 Mac 版本
-├── Littera — bitmap font generator.html
+.
+├── apps
+│   ├── littera.app
+│   └── littera.exe
+├── Flash Player.app
+│   └── Contents
 ├── Littera — bitmap font generator_files
+│   ├── ga.js
+│   ├── littera.swf.下载
+│   └── swfobject.js
+├── Littera — bitmap font generator.html
+├── littera.swf
 ├── README
-├── README.md
-├── littera.swf  //主要编辑文件
-└── node_modules
+│   ├── download.gif
+│   └── image-20210204125432022.png
+└── README.md
 
-directory: 4 file: 3
+7 directories, 9 files
+Mac~/jsroads/asroads/Littera-bitmap-font-generator(main↑1|✔) %
 
 ```
 
